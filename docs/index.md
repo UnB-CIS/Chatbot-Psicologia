@@ -53,7 +53,3 @@ Este site serve como **organizador e centralizador** de materiais, decisões e d
 - **GitHub:** [IEEE CIS UnB](https://unb-cis.github.io/Chatbot-Psicologia/)
 
 ---
-
-*Última atualização:* {{ site.time | date: "%d/%m/%Y" }}
-
-Teste
