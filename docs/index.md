@@ -34,10 +34,10 @@ Este site serve como **organizador e centralizador** de materiais, decisões e d
 ## 📄 Documentação
 > *(Linkar futuramente para as páginas correspondentes)*
 
-- [Documentação Técnica](www.exemplolink.com)
-- [Guia de Contribuição](www.exemplolink.com)
-- [Materiais de Referência](www.exemplolink.com)
-- [Relatórios e Atualizações](www.exemplolink.com)
+- [Documentação Técnica](#)
+- [Guia de Contribuição](#)
+- [Materiais de Referência](#)
+- [Relatórios e Atualizações](#)
 
 ---
 
